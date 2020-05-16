@@ -1,0 +1,6 @@
+c:\users\speedfire\Git_one\Git_one\bin\Debug\Git_one.exe.config
+c:\users\speedfire\Git_one\Git_one\bin\Debug\Git_one.exe
+c:\users\speedfire\Git_one\Git_one\bin\Debug\Git_one.pdb
+c:\users\speedfire\Git_one\Git_one\obj\Debug\Git_one.csprojResolveAssemblyReference.cache
+c:\users\speedfire\Git_one\Git_one\obj\Debug\Git_one.exe
+c:\users\speedfire\Git_one\Git_one\obj\Debug\Git_one.pdb
